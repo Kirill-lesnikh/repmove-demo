@@ -14,3 +14,7 @@ To run tests run:
 
 To show the report run:
 > npx playwright show-report
+
+Testplan: ./repmove-testplan.pdf
+
+Testcases: ./repmove-testcases.csv
